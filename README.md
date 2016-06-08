@@ -61,6 +61,8 @@ The input data needs to be generated as follows:
 - [use perf on linux](https://github.com/thlorenz/flamegraph/blob/master/generate-perf-data.md)
 - [use instruments on mac](https://github.com/thlorenz/flamegraph/blob/gh-pages/web/img/instruments.gif)
 
+For an in depth mac tutorial, check out [this gist](https://gist.github.com/zeusdeux/aac6f8500917319213c5)
+
 ## API
 
 <!-- START docme generated API please keep comment here to allow auto update -->
